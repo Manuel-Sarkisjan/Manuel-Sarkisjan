@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Chess related projects**
 
-- 🤝 I’m looking for help with **Anti Cheat System for Online Chess**
+- 🤝 I’m looking for help with **Cheat Detection program for Online Chess**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **manuel.sarkisjan@gmail.com**
 
-- ⚡ Fun fact **Besides programming languages I am also into human languages, as a matter of fact I am a polyglot: English, Spanish, Russian, Dutch and Armenian**
+- ⚡ Fun fact **Besides programming languages I am also into human languages, as a matter of fact I am a polyglot: English, Spanish, Russian, Dutch & (Eastern) Armenian.   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
