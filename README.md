@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **manuel.sarkisjan@gmail.com**
 
-- ⚡ Fun fact **Besides programming languages I am also into human languages, as a matter of fact I am a polyglot: English, Spanish, Russian, Dutch & (Eastern) Armenian.**   
+- ⚡ Fun fact ** With a Master's in Criminal Law from the University of Amsterdam and 7 years of experience as a CDD analyst at Rabobank, I have a strong foundation in legal analysis and risk assessment. I am continually seeking to enhance my skill set through self-directed learning in technology. Besides programming languages I am also into human languages, as a matter of fact I am a polyglot: English, Spanish, Russian, Dutch & (Eastern) Armenian.**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
