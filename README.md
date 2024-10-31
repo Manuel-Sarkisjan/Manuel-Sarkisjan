@@ -14,7 +14,7 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 </em></p>
 
 [![X: Manuel](https://img.shields.io/twitter/follow/ManuelSarkisjan?style=social)](https://x.com/ManuelSarkisjan) 
-[![Linkedin: Manuel](https://img.shields.io/badge/manuel-sarkisjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-sarkisjan/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-Manuel%20Sarkisjan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-sarkisjan/)
 
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGM2Mjdnemk0dWN5MDNidThxd2N6YXhya3h2aGI1Y28zejdrNDc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300"> 
