@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **manuel.sarkisjan@gmail.com**
 
-- ⚡ Fun fact **Besides programming languages I am also into human languages, as a matter of fact I am a polyglot: English, Spanish, Russian, Dutch & (Eastern) Armenian.   
+- ⚡ Fun fact **Besides programming languages I am also into human languages, as a matter of fact I am a polyglot: English, Spanish, Russian, Dutch & (Eastern) Armenian.**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
