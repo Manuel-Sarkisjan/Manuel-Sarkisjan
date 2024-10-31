@@ -1,46 +1,26 @@
-<h2> Hi, I'm Manuel Sarkisjan! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjExangxYXVqYTBoeTkxaHpqdHRyc3Z0NXNxOXFjeGluaXpnYzY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif" width="230">
-<p><em> I'm a passionate software engineer with a keen interest in Python, data science, web development, and AI. I'm particularly excited about the intersection of these fields, especially in game development.
+<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h3 align="center">A passionate programmer from the Netherlands. Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about tech.</h3>
 
-My Tech Stack:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuel-sarkisjan&label=Profile%20views&color=0e75b6&style=flat" alt="manuel-sarkisjan" /> </p>
 
-Languages: Python
-Tools: Visual Studio Code
-Interests: Data Science, Web Development, AI, Game Development
-Let's Connect!
+<p align="left"> <a href="https://twitter.com/manuelsarkisjan" target="blank"><img src="https://img.shields.io/twitter/follow/manuelsarkisjan?logo=twitter&style=for-the-badge" alt="manuelsarkisjan" /></a> </p>
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about tech.
+- 💬 Ask me about **Python**
 
-</em></p>
+- 📫 How to reach me **manuel.sarkisjan@gmail.com**
 
-[![X: Manuel](https://img.shields.io/twitter/follow/ManuelSarkisjan?style=social)](https://x.com/ManuelSarkisjan) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Manuel%20Sarkisjan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-sarkisjan/)
+- ⚡ Fun fact **Besides programming languages I am also into human languages, as a matter of fact I am a polyglot**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manuelsarkisjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manuelsarkisjan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19965592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19965592" height="30" width="40" /></a>
+<a href="https://fb.com/manuel.sarkisjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manuel.sarkisjan" height="30" width="40" /></a>
+<a href="https://instagram.com/manuel.sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuel.sn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manuel_sarkisjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manuel_sarkisjan" height="30" width="40" /></a>
+</p>
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGM2Mjdnemk0dWN5MDNidThxd2N6YXhya3h2aGI1Y28zejdrNDc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-A little more about me...  
-
-``` Python
-def get_to_know_me(*args, **kwargs):
-  """
-  Prints a personalized introduction, incorporating fun facts.
-
-  Args:
-    *args: Variable-length argument list for flexible input.
-    **kwargs: Keyword arguments for specific details.
-
-  Example usage:
-  ```python
-  get_to_know_me(
-      location="The Netherlands, Amsterdam",
-      interests="Chess, Programming, Polyglot: 🇬🇧 English, 🇪🇸 Spanish, 🇳🇱 Dutch, 🇷🇺 Russian, 🇦🇲 Armenian",
-      mission="To push the boundaries of what's possible with code.",
-      description="An architect of the digital unknown, navigating the shadows of the web, crafting echoes in the void."
-  )
-
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuel-sarkisjan&show_icons=true&locale=en&layout=compact" alt="manuel-sarkisjan" /></p>
